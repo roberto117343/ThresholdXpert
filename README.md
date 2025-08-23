@@ -2,19 +2,27 @@
 
 Software tool for the **determination and optimization of diagnostic thresholds** in individual biomarkers and **multimarker panels**.
 
-![ThresholdXpert Logo](https://github.com/roberto117343/ThresholdXpert/blob/main/ThresholdXpert/src/main/java/com/RRF/ThresholdXpert/logo/Logo%20ThresholdXpert.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/Logo/ThresholdXpertLogo.png" 
+       alt="ThresholdXpert Logo" width="200"/>
+</p>
 
-*Official logo of ThresholdXpert 1.0*
+<p align="center"><em>Official logo of ThresholdXpert 1.0</em></p>
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Java Version](https://img.shields.io/badge/Java-11-orange.svg)
-![Python Version](https://img.shields.io/badge/Python-3.x-yellow.svg)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)
-[![Download .jar](https://img.shields.io/badge/Download-.jar-blue)](https://github.com/roberto117343/ThresholdXpert/raw/refs/heads/main/ThresholdXpert-1.0.jar)
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
+  <img src="https://img.shields.io/badge/Java-11-orange.svg" alt="Java Version"/>
+  <img src="https://img.shields.io/badge/Python-3.x-yellow.svg" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg" alt="Platform"/>
+  <a href="https://github.com/roberto117343/ThresholdXpert/raw/refs/heads/main/ThresholdXpert-1.0.jar">
+    <img src="https://img.shields.io/badge/Download-.jar-blue" alt="Download .jar"/>
+  </a>
+</p>
 
-[📂 Official Repository (Code and Releases)](https://github.com/roberto117343/ThresholdXpert)
-
-[⬇ Download ThresholdXpert 1.0](https://github.com/roberto117343/ThresholdXpert/raw/refs/heads/main/ThresholdXpert-1.0.jar)
+<p align="center">
+  <a href="https://github.com/roberto117343/ThresholdXpert">📂 Official Repository (Code and Releases)</a><br>
+  <a href="https://github.com/roberto117343/ThresholdXpert/raw/refs/heads/main/ThresholdXpert-1.0.jar">⬇ Download ThresholdXpert 1.0</a>
+</p>
 
 ---
 
