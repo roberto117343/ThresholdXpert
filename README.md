@@ -140,5 +140,5 @@ Licensed under the **GNU GPL v3.0**. See [LICENSE](LICENSE).
 ## Contact
 
 **Roberto Reinosa Fernández**
-📧 [roberto117343@gmail.com](mailto:roberto117343@gmail.com)
+📧 [roberto117343@gmail.com](mailto:roberto117343@gmail.com) <br>
 💻 [GitHub: roberto117343](https://github.com/roberto117343/ThresholdXpert)
