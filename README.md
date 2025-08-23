@@ -20,7 +20,9 @@ Software tool for the **determination and optimization of diagnostic thresholds*
 </p>
 
 <p align="center">
-  <a href="https://github.com/roberto117343/ThresholdXpert/blob/main/ThresholdXpert/target/ThresholdXpert-1.0.jar">⬇ Download ThresholdXpert 1.0</a>
+  <a href="https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/ThresholdXpert/target/ThresholdXpert-1.0.jar">
+    ⬇ Download ThresholdXpert 1.0
+  </a>
 </p>
 
 ---
