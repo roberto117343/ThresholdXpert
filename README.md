@@ -1,9 +1,9 @@
 # ThresholdXpert 1.0
 
-<p align="center">
 Software tool for the **determination and optimization of diagnostic thresholds** in individual biomarkers and **multimarker panels**.
 
- <img src="https://github.com/roberto117343/ThresholdXpert/blob/main/ThresholdXpert/src/main/java/com/RRF/ThresholdXpert/logo/Logo%20ThresholdXpert.png" 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/ThresholdXpert/src/main/java/com/RRF/ThresholdXpert/logo/Logo%20ThresholdXpert.png" 
        alt="ThresholdXpert Logo" width="200"/>
 </p>
 
