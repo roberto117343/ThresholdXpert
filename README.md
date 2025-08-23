@@ -3,7 +3,7 @@
 Software tool for the **determination and optimization of diagnostic thresholds** in individual biomarkers and **multimarker panels**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/Logo/ThresholdXpertLogo.png" 
+  <img src="[https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/Logo/ThresholdXpertLogo.png](https://github.com/roberto117343/ThresholdXpert/blob/main/ThresholdXpert/src/main/java/com/RRF/ThresholdXpert/logo/Logo%20ThresholdXpert.png)" 
        alt="ThresholdXpert Logo" width="200"/>
 </p>
 
