@@ -32,7 +32,7 @@ This project was developed and applied to the problem of risk stratification in 
 
 ## 🎯 The Problem
 
-Determining the best cut-off points for diagnostic tests is complex. Conventional methods like ROC analysis may not always yield a clinically useful balance between **sensitivity** and **specificity**. The challenge intensifies when combining multiple markers into a panel, where simple logical rules (like "OR" or "AND") often lead to poor performance, and complex "black-box" models lack interpretability.
+Determining the best cut-off points for diagnostic tests is complex. Conventional methods like ROC analysis may not always yield a clinically useful balance between **sensitivity** and **specificity**. The challenge intensifies when combining multiple markers into a panel.
 
 There is a need for a systematic, transparent, and effective tool to derive and optimize diagnostic thresholds, both for single markers and for complex panels.
 
@@ -76,7 +76,7 @@ The second stage uses the `ThresholdXpert 1.0` graphical tool to optimize the th
 ## 📦 Installation & Usage
 
 ### Requirements
-*   **ThresholdXpert App**: Java Runtime Environment (JRE 11 or higher).
+*   **ThresholdXpert App**: Java Runtime Environment (JRE 11).
 *   **Supporting Scripts (Optional)**: Python 3.x with the `matplotlib` library.
 
 ### Using the App (ThresholdXpert-1.0.jar)
@@ -108,8 +108,7 @@ python Scripts/S3.1.py
 
 If you use ThresholdXpert 1.0 or its methodology in your research, please cite the accompanying paper:
 
-> Reinosa Fernández, R. (2023). *Determinación y Optimización de Puntos de Corte Diagnósticos para Paneles Multimarcador mediante un Enfoque de Dos Etapas y la Herramienta de Software ThresholdXpert 1.0: Aplicación a la Estratificación de Riesgo de Nódulos Pulmonares*. [Manuscript/Preprint].
-
+> Coming soon.
 ---
 
 ## 📄 License
