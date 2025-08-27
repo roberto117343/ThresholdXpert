@@ -1,11 +1,3 @@
-Claro, aquí tienes el archivo README.md completo y listo para copiar y pegar, en formato Markdown.
-
-code
-Markdown
-download
-content_copy
-expand_less
-
 # ThresholdXpert 1.0
 
 A Java-based software tool and methodology for the **determination and optimization of diagnostic cut-off points** for individual biomarkers and **multimarker panels**.
