@@ -58,11 +58,6 @@ The second stage uses the `ThresholdXpert 1.0` graphical tool to optimize the th
 
 ## ✨ Key Features of the GUI
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/ThresholdXpert/main/img/GUI_example.png" alt="ThresholdXpert GUI" width="500"/>
-  <br><em>Figure: Parameter configuration in ThresholdXpert 1.0.</em>
-</p>
-
 1.  **Combinatorial Threshold Optimization (`Calculate Thresholds`)**
     -   Optimizes cut-offs for **multimarker panels** to meet user-defined performance targets (e.g., `0.8;0.8;0.8` for Sens;Spec;Accuracy).
     -   Allows the user to restrict the **search space** for each variable's threshold, speeding up optimization.
