@@ -65,7 +65,7 @@ The second stage uses the `ThresholdXpert 1.0` graphical tool to optimize the th
 
 2.  **Batch Prediction (`File prediction`)**
     -   Applies a predefined set of thresholds to an entire CSV dataset.
-    -   Generates and displays in the interface the content for a CSV file with the predicted classification of each case, ready to be copied and manually saved, allowing for external validation.
+    -   Generates and displays in the interface the content of a CSV file containing the predicted classification of each case, ready to be copied and manually saved for external validation.
 
 3.  **Single Case Prediction (`Individual prediction`)**
     -   Manually enter the biomarker values for a single case (e.g., one patient).
