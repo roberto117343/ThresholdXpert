@@ -108,7 +108,7 @@ python Scripts/S3.1.py
 
 If you use ThresholdXpert 1.0 or its methodology in your research, please cite the accompanying paper:
 
-> Coming soon.
+> Reinosa, Roberto (2025). Determination and Optimization of Diagnostic Cut-off Points for Multimarker Panels through a Two-Stage Approach and the Software Tool ThresholdXpert 1.0: Application to Risk Stratification of Pulmonary Nodules. figshare. Preprint. https://doi.org/10.6084/m9.figshare.30084427.v1
 ---
 
 ## 📄 License
